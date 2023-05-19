@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alex Liang,
-- a Part II Software Engineer at the University of Auckland
+- Software Engineering Student at the University of Auckland
+- Checkout my portfolio website on : http://alux444.github.io/
 
 
 <!---
