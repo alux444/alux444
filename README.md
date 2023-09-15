@@ -2,7 +2,7 @@
 Software Engineering Student at the University of Auckland
 Checkout my portfolio website on : http://alux444.github.io/
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alux44&hide=contribs,issues&show_icons=true&hide_title=true4&theme=tokyonight)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alux444&hide=contribs,issues&show_icons=true&hide_title=true4&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alux444&layout=compact&theme=tokyonight)
 
