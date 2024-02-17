@@ -1,5 +1,8 @@
 👋 Hi, I’m Alex Liang,
 
+Software Engineer at Spark NZ
+
++
 
 Software Engineering Student at the University of Auckland
 
