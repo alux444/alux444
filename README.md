@@ -1,6 +1,6 @@
 👋 Hi, I’m Alex Liang,
 
-Software Engineer at (Spark NZ)[https://spark.co.nz/] | Software Engineering Student at the (University of Auckland)[https://www.auckland.ac.nz/en.html]
+Software Engineer at [Spark NZ](https://spark.co.nz/) | Software Engineering Student at the [University of Auckland](https://www.auckland.ac.nz/en.html)
 
 
 Checkout my portfolio website at: http://alux444.github.io/
