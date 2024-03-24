@@ -2,8 +2,7 @@
 
 Software Engineer at [Spark NZ](https://spark.co.nz/) | Software Engineering Student at the [University of Auckland](https://www.auckland.ac.nz/en.html)
 
-
-Checkout my portfolio website at: http://alux444.github.io/
+Find out more about me on my [portfolio website](http://alux444.github.io/)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/alux444)](https://leetcode.com/alux444)
 
