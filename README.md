@@ -1,8 +1,6 @@
-👋 Hi, I’m Alex Liang,
+Hey, I'm Alex.
 
-Software Engineer at [*Spark NZ*](https://spark.co.nz/) | Software Engineering Student at the [*University of Auckland*](https://www.auckland.ac.nz/en.html)
-
-Find out more about me on my [portfolio website](http://alux444.github.io/)
+Software Engineer at [**Spark NZ**](https://spark.co.nz/) || Software Engineering Student at the [**University of Auckland**](https://www.auckland.ac.nz/en.html)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/alux444?ext=activity)](https://leetcode.com/alux444)
 
