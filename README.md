@@ -1,8 +1,4 @@
-Hey, I'm Alex.
-
-👨‍💻 Software Engineer at [**Spark NZ**](https://spark.co.nz/) , prev. Software Engineer Intern at [**Atlassian**](https://www.atlassian.com/) 
-
-🎓 Software Engineering Student at the [**University of Auckland**](https://www.auckland.ac.nz/en.html)
+Hi, I'm Alex.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/alux444?ext=activity)](https://leetcode.com/alux444)
 
