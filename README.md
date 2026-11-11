@@ -1,7 +1,5 @@
 Hi, I'm Alex.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/alux444?ext=activity)](https://leetcode.com/alux444)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=alux444&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=alux444&layout=compact&theme=tokyonight&langs_count=8)
